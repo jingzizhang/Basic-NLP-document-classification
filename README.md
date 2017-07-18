@@ -1,12 +1,12 @@
 # Basic-NLP-document-classification
 
-  classify documents from eight groups 
-  ('comp.graphics',
-  'comp.os.ms-windows.misc',
-  'comp.sys.ibm.pc.hardware',
-  'comp.sys.mac.hardware',
-  'rec.autos',
-  'rec.motorcycles',
-  'rec.sport.baseball',
-  'rec.sport.hockey')
+  classify documents from eight groups <br />
+  ('comp.graphics',<br />
+  'comp.os.ms-windows.misc',<br />
+  'comp.sys.ibm.pc.hardware',<br />
+  'comp.sys.mac.hardware',<br />
+  'rec.autos',<br />
+  'rec.motorcycles',<br />
+  'rec.sport.baseball',<br />
+  'rec.sport.hockey')<br />
   into two groups (comp and rec) by SVM and Naive Bayesian. 
