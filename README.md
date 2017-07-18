@@ -9,4 +9,4 @@
   'rec.motorcycles',
   'rec.sport.baseball',
   'rec.sport.hockey')
-  into two groups(comp and rec) by SVM and Naive Bayesian. 
+  into two groups (comp and rec) by SVM and Naive Bayesian. 
